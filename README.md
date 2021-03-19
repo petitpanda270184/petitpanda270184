@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @petitpanda270184
 - 👀 I’m interested in Data Science, Data Visualization through Python. 
 - 🌱 I’m currently learning Data Visualization through Python.
-- 💞️ I’m looking to collaborate on Data Scient, Data Analytics. 
+- 💞️ I’m looking to collaborate on Data Science, Data Analytics, Python. 
 - 📫 Feel Free to reach me at petitpanda270184@gmail.com.
 
 <!---
